@@ -1,0 +1,64 @@
+<AppScopes>
+<AppScope>
+<Text> Application scope 1</Text>
+<Name> Application_scope_1</Name>
+<Items>
+<Item>
+<Text> Text of item 1</Text>
+<Name> Item1 </Name>
+<Values>
+<Value>
+<Text> Text of item 1 value 1</Text>
+<Name> Item1_value1 </Name>
+</Value>
+<Value>
+<Text> Text of item 1 value 2</Text>
+<Name> Item1_value2 </Name>
+</Value>
+</Values>
+</Item>
+<Item>
+<Text> Text of item 2</Text>
+<Name> Item2 </Name>
+<Values>
+<Value>
+<Text> Text of item 2 value 1</Text>
+<Name> Item2_value1 </Name>
+</Value>
+<Value>
+<Text> Text of item 2 value 2</Text>
+<Name> Item2_value2 </Name>
+</Value>
+<Value>
+<Text> Text of item 2 value 3</Text>
+<Name> Item2_value3 </Name>
+</Value>
+</Values>
+</Item>
+</Items>
+</AppScope>
+<AppScope>
+<Text> Application scope 2</Text>
+<Name> Application_scope_2</Name>
+<Items>
+<Item>
+<Text> Text of item 1 </Text>
+<Name> Item1 </Name>
+<Values>
+<Value>
+<Text> Text of item 1 value 1</Text>
+<Name> Item1_value1 </Name>
+</Value>
+<Value>
+<Text> Text of item 1 value 2</Text>
+<Name> Item1_value2 </Name>
+</Value>
+<Value>
+<Text> Text of item 1 value 3</Text>
+<Name> Item1_value3 </Name>
+</Value>
+</Values>
+</Item>
+</Items>
+</AppScope>
+</AppScopes>
